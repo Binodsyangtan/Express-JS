@@ -1,32 +1,13 @@
-/* 
-    Global object
-    -console
-    - __dirname
-    - __filename
+const express = require('express')
+const app = express()
 
-    Node Modules
-    - third party
-        eg:axios, bcrypt, nodemon
-    - core
-        eg:
-    - local
+app.get("/api/todos",(req,res) =>{
+    console.log("send todos.")
+    let todos = ["html", "css", "js"]
+    res.send(todos)
 
+})
 
-*/
-
-const { hash } = require("bcrypt")
-
-
-function signup(username,email,password){
-    bcrypt.hash(password, 10, function(err, hash) {
-
-    let data = {
-        "username":username,
-        email,
-        password:hash;
-    }
-    console.log("storein DB", data)
+app.listen(8000, () =>{
+    console.log("server started.");
 });
-    
-}
-signup("ram","ram@gmail.com","password")

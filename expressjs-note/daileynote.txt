@@ -1,0 +1,23 @@
+AAJA BATA EXPRESS JS SURU VAKO (FEB-11)
+
+
+feb...11
+    .npm package
+
+    1.aaja install and all here
+    2.package haru download gare
+    3.node js lai chahine sabai install gare
+    4.package.json aaunau parxa so aayo mero mah 
+    
+
+feb...12
+    
+    1.reasearch LOCAL MODULE
+                    - common js module (EXPRESS)
+                    - Es module  (react) 
+    2.yo dinko video here masta practice garna baki xan yo bujhnu imp vako le practice garni feri 
+
+
+feb...13
+
+    1.
