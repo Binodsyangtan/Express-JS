@@ -20,4 +20,14 @@ feb...12
 
 feb...13
 
-    1.
+    1.post garna sikiyo 
+    2.basic EXPRESS ko code lekhiyo 
+
+feb...15
+
+    1.middle way 
+
+    2.status code (like network sign jasto mah dekhauni wala) 
+        success vo ki vyaana dekhnauxa yesley 2 200 201 203 204
+                                              3: redirect 
+    3.imp topic middle-ware so reasearch garni 
