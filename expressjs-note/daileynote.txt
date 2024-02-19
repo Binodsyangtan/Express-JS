@@ -25,9 +25,18 @@ feb...13
 
 feb...15
 
-    1.middle way 
+    1.middle way  (imp xa reasearch garni practice garni )
 
     2.status code (like network sign jasto mah dekhauni wala) 
         success vo ki vyaana dekhnauxa yesley 2 200 201 203 204
                                               3: redirect 
     3.imp topic middle-ware so reasearch garni 
+
+feb...16
+
+    1.route level middleware reasearch and practice
+    2. as a backend STATUS CODE ko knowledged chahinxa correct code pathau nu parni hunxa frontend mah
+
+feb...18
+
+    1.
