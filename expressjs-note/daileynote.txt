@@ -39,4 +39,32 @@ feb...16
 
 feb...18
 
-    1.
+    1.dynamic tarikale delete garda post garda k hunxa banaune try 
+    2.array vitra object banayara dynamic banaune api lai 
+
+
+
+feb...19
+
+    1.aaja bata database suru ko imp part
+
+feb...20
+    1.aaja mongodb suru install kasari garni and all set up aaja gariyo and halka database create ni gariyo
+
+feb...21
+
+    1.aaja mongodb ko past update delete garna sikiyo
+
+feb...22(mongodb and EXPRESS lai join gareko din)
+
+    1.mongodb and EXPRESS join garna sikiyo aaja
+    2.imp day aaja ramari practice garni feri video herera
+    3.MOST IMP CLASS AAJAKO SO FERI HERNI VIDEOS
+    
+
+
+    note: yespaxi ko video feri herera practice garni imp topic xa so 
+
+feb...23
+    
+
